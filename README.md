@@ -65,5 +65,5 @@ The server admin can shut down the server, notifying all connected clients.
 ---
 
 Here’s a screenshot of the application in action:
-![Chat Application Output](Socket_programming/images/Screenshot%20(385).png)
+![Chat Application Output](images/Screenshot%20(385).png)
 
